@@ -1,3 +1,38 @@
+/* GLOBAL */
 body{
- 
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.container{
+  width: 50%;
+  margin: 0 auto;
+}
+
+/* HEADER */
+header, main{
+  border-bottom: 2px solid #CE8A04;
+}
+
+header{
+  text-align: center;
+  background-color: #EDEDED;
+}
+
+/* MAIN */
+main{
+  padding-left: 15px;
+}
+
+section h2{
+  color: #CE8A04;
+}
+
+.item p{
+  font-style: italic;
+}
+
+/* FOOTER */
+footer{
+  font-size: 12px;
 }
